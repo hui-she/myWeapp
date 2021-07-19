@@ -13,3 +13,4 @@ const app = new Vue({
 app.$mount()
 
 console.log(1)
+console.log(2)
