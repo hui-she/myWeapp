@@ -1,0 +1,63 @@
+{
+	"pages": [
+	{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "首页"
+		}
+	}
+	// ,{
+	// 	"path": "pages/list/list",
+	// 	"style": {
+	// 		"navigationBarTitleText": "列表"
+	// 	}
+	// },{
+	// 	"path": "pages/set/set",
+	// 	"style": {
+	// 		"navigationBarTitleText": "设置"
+	// 	}
+	// },{
+	// 	"path": "pages/edit/edit",
+	// 	"style": {
+	// 		"navigationBarTitleText": "编辑"
+	// 	}
+	// },{
+	// 	"path": "pages/ceshi/ceshi",
+	// 	"style": {
+	// 		"navigationBarTitleText": "测试"
+	// 	}
+	// }
+	],
+	// "tabBar": {
+	// 	"backgroundColor": "#FFFFFF",
+	// 	"borderStyle": "white",
+	// 	"selectedColor": "#1C9E3A",
+	// 	"color": "#666",
+	// 	"list": [
+	// 		{
+	// 		   "pagePath": "pages/index/index",
+	// 		   "text": "首页",
+	// 		   "iconPath": "images/icon_tab_index_81.png",
+	// 		   "selectedIconPath": "images/icon_tab_index_select_81.png"
+	// 		},
+	// 		{
+	// 		   "pagePath": "pages/list/list",
+	// 		   "text": "创建小决定",
+	// 		   "iconPath": "images/icon_tab_list_81.png",
+	// 		   "selectedIconPath": "images/icon_tab_list_select_81.png"
+	// 		},
+	// 		{
+	// 		   "pagePath": "pages/set/set",
+	// 		   "text": "设置",
+	// 		   "iconPath": "images/icon_tab_set_81.png",
+	// 		   "selectedIconPath": "images/icon_tab_set_select_81.png"
+	// 		}
+	// 	]
+	// },
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#007AFF",
+		"backgroundColor": "#FFFFFF"
+	}
+}
